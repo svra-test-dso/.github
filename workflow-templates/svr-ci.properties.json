@@ -1,0 +1,13 @@
+{
+    "name": "SVr Organization Workflow",
+    "description": "Svr  Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
