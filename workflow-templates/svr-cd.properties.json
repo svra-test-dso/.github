@@ -3,8 +3,8 @@
     "description": "Svr Organization CD workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Java",
-        "CD"
+        "CD",
+        "Java"
     ],
     "filePatterns": [
         "package.json$",
