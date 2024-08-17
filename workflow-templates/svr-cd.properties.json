@@ -1,10 +1,10 @@
 {
-    "name": "SVr Organization Workflow",
-    "description": "Svr  Organization CI workflow template.",
+    "name": "Svr Organization Workflow",
+    "description": "Svr Organization CD workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go",
-        "Java"
+        "Java",
+        "CD"
     ],
     "filePatterns": [
         "package.json$",
